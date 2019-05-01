@@ -11,6 +11,8 @@
 
 ## Process
 
+![white-board-bst](./white-board-bst.jpg)
+
 Starting at the top of the tree we need to keep count. Meaning that will be 0.
 Going down, there will be a left node and a right node meaning we will need the max of the two Nodes.
 
